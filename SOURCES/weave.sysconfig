@@ -1,0 +1,11 @@
+## Please see https://www.weave.works/docs/net/latest for full
+## documentation and description of all options.
+
+## options to weave launch
+#OPTIONS="--no-detect-tls --ipalloc-range 10.255.0.0/16 --no-dns --without-dns --proxy=false"
+
+## weave encryption password
+#WEAVE_PASSWORD=""
+
+## weave network peers
+#PEERS=""
